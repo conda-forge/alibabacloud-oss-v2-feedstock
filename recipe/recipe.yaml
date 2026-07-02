@@ -1,5 +1,5 @@
 context:
-  version: "1.3.0"
+  version: "1.3.1"
 
 package:
   name: alibabacloud-oss-v2
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/aliyun/alibabacloud-oss-python-sdk-v2/archive/refs/tags/${{ version }}.tar.gz
-  sha256: 0e7b3990c9dfa6ed287f4829377de9fa47c7a71d313687078f32a75586d05d0a
+  sha256: f75d56ffad088f5d84b55607e4f3a75a9313abfb520023471049d184e37c34bb
 
 build:
   noarch: python
